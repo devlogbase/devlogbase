@@ -1,6 +1,4 @@
-<h1 align="center"> DevLogBase</h1>
-
-<h2 align="center"> Hi there 👋<br/>I'm Yeongbeom Choi </h2>
+<h2 align="center"> Hi there 👋<br/>I'm Yeongbeom</h2>
 
 <br/>
 <br/>
