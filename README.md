@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<h2 align="center"> 📊 My Git Status </h2>
+<h2 align="center"> 📊 GitHub Status </h2>
 
 <br/>
 
